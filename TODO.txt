@@ -1,0 +1,15 @@
+List of ideas for simplEcard
+
+Things I hope to do some times soon
+- Support directories for the pictures to choose
+
+Nice to have
+- Add stamps to choose for the postcards
+- Use scriptaculous for nice effects
+
+Valued added functionality
+(Which means i plan not to do this soon. If somebody finds time to do it, please contact me at dbu@users.sourceforge.net)
+
+- administration (make config.custom.php web editable)
+- upload interface for new pictures (automatically generating the preview too)
+- notification when postcard is read

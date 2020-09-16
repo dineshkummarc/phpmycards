@@ -1,0 +1,71 @@
+body, p, td { 
+  font-family: Helvetica, Arial, sans-serif;
+}
+body { 
+  background-color: #b8c3cc;
+  background-repeat: repeat-y;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+table {
+    background-color: #ffffff;
+}
+
+h2 { 
+  font-size: 16pt;
+}
+div.simplecard { 
+  padding:8pt;
+}
+
+/* choose */
+
+a.cardname { 
+  text-decoration: none;
+  color: black;
+}
+table.choose { 
+  margin-bottom: 20px;
+}
+table.choose td { 
+  border: solid grey 1px;
+  vertical-align:bottom;
+}
+/* write */
+table.ecard { 
+  border: solid grey 1px;
+  background-color: #ffdd3e;
+}
+table.ecard td { 
+  height: 12px;
+  vertical-align:top;
+  font-size: 10pt;
+  font-style: italic;
+}
+table.ecard td.showmessage { 
+  height: auto;
+  vertical-align:top;
+}
+a#lemail_to { 
+  font-style: normal;
+  font-size: 8pt;
+}
+
+/* show */
+div.showmessage {
+  font-size: 12pt;
+  font-style: normal;
+  border: solid grey 1px;
+  padding: 3px;
+  height: 90%;
+  min-height: 280px;
+  background-color: #fff47e;
+}
+
+.error{ 
+  color: red;
+}
+
+.copyright {
+  font-size: 10px;
+}

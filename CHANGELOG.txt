@@ -1,0 +1,25 @@
+********************************************************
+* simplEcard - a simple E-Card system                  *
+*                                                      *
+* Web site: http://simplecard.sourceforge.net          *
+* Author:   David Buchmann <dbu@users.sourceforge.net> *
+*                                                      *
+* Copyright (c) 2006 David Buchmann                    *
+********************************************************
+$Id:$
+
+1.0_RC2 - 2.2.2007
+
+- Fixed english language
+- Added possibility to send a card to several recipients
+
+1.0_RC1 - 13.12.2006 (Initial release)
+
+All the basic features are operating:
+- Select pictures from a folder
+- Send cards in plain text or HTML
+- Store messages in plain text file or MySQL
+- View cards using a prepared link
+
+This is a rewrite of phpPowerCards 2.0 by Marc Giombetti
+http://giombetti.com/scripts.gio
