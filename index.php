@@ -42,7 +42,7 @@ $body = simplecard();
 </head>
 <body>
 <div style="text-align:center;">
-<div style="text-align:left;margin:auto;">
+<div>
 <?php
 echo $body;
 ?>
