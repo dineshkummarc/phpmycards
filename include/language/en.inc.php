@@ -31,14 +31,13 @@
  * $Id: en.inc.php 10 2007-02-02 12:33:12Z dbu $
  */
 
-
 /* common */
 $se_text['error_configuration'] = 'Configuration Error';
 $se_text['fielderror'] = 'The following error(s) occured:';
 
 /* postcard sending interface */
-$se_text['header_choose'] = 'Choose a picture';
-$se_text['header_write'] = 'Send your postcard';
+$se_text['header_choose'] = '';
+$se_text['header_write'] = '';
 
 $se_text['yourname'] = 'Your name:';
 $se_text['yourmail'] = 'Your email:';
@@ -56,7 +55,6 @@ $se_text['error_invalidemail_from'] = "The sender's email is incorrect.";
 $se_text['error_invalidemail_to'] = "The recipient's email is incorrect.";
 $se_text['error_toomanyadresses'] = 'You can not send cards to so many recipients in the same time.';
 
-
 /* postcard viewing interface */
 $se_text['header_show'] = 'You recived the following postcard';
 $se_text['show_from'] = 'From:';
@@ -65,8 +63,6 @@ $se_text['show_message'] = 'Message:';
 $se_text['show_answer'] = 'Reply';
 $se_text['error_nosession'] = 'You are not allowed to view this card.';
 $se_text['error_missingparams'] = 'Invalid URL. If your email program wrapped the link onto several lines, please append the parts.';
-
-
 
 /* postcard sending */
 $se_text['header_send'] = 'Your postcard has been sent';
@@ -98,7 +94,6 @@ and paste it into your browser using CTRL+V)
  * is created using the specified template and replacing the placeholders.
  */
 $se_text['show_web'] = 'If this message is not displayed properly, please follow this link.';
-
 
 /*		
 $needyourname = "- You need to enter your name!";		 				
