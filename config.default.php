@@ -122,8 +122,7 @@ $simplecard['multiaddresses'] = 50;
  *
  * If there is no preview, the image can not be selected to be sent.
  */
-$simplecard['images_directory'] = "pictures/examples";
-
+$simplecard['images_directory'] = "pictures";
 
 /** Set the scripts own URL.
  * Usually, the script can determine its url correctly. However, you can specify it here.
