@@ -36,7 +36,9 @@ $se_text['error_configuration'] = 'Configuration Error';
 $se_text['fielderror'] = 'The following error(s) occured:';
 
 /* postcard sending interface */
+// $se_text['header_choose'] = 'Choose a picture';
 $se_text['header_choose'] = '';
+// $se_text['header_write'] = 'Send your postcard';
 $se_text['header_write'] = '';
 
 $se_text['yourname'] = 'Your name:';
